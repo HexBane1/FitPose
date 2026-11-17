@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FitPose</string>
+    <string name="main_subtitle">Choose an exercise</string>
+
+    <string-array name="exercises">
+        <item>Squat</item>
+        <item>Seated Cable Row</item>
+        <item>Bench Press</item>
+        <item>Biceps Curl</item>
+        <item>Lateral Raises</item>
+    </string-array>
+
+    <string name="no_sets">No sets yet</string>
+    <string name="add_set">Add set</string>
+    <string name="analyze_form">Analyze form</string>
+    <string name="no_camera_app">No camera app found</string>
+    <string name="edit_set">Edit set</string>
+    <string name="set_weight_format">%1$s kg</string>
+    <string name="set_reps_format">%1$d reps</string>
+
+    <string name="weight_label">Weight (kg)</string>
+    <string name="reps_label">Reps</string>
+    <string name="date_label">Date</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="error_required">This field is required</string>
+    <string name="error_positive">Value must be greater than 0</string>
+</resources>
